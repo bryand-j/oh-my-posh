@@ -14,7 +14,8 @@
           "leading_diamond": "\uE0B6",
           "trailing_diamond": "",
           "properties": {
-            "prefix": "",
+            "prefix": "\uf508 ",
+            "postfix": " on",
             "display_host": false
           }
         },
